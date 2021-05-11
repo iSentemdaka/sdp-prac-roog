@@ -6,7 +6,7 @@ namespace Roog
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");//Everyone's first time
+            Console.WriteLine("g16b0031");//Everyone's first time
         }
     }
 }
